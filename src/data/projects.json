@@ -1,0 +1,26 @@
+[
+  {
+    "title": "shopkart website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building a e-commerce website.",
+    "skills": ["React", "Express", "Node"],
+    
+    "source": "https://github.com/Koushik71234/nodejs"
+  },
+  {
+    "title": "music-webpage",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["", "HTML","CSS", "JAVASCRIPT"],
+    
+    "source": "https://github.com/Koushik71234/html-css-javascript-project"
+  },
+  {
+    "title": "Blood-donation-website",
+    "imageSrc": "projects/project.png",
+    "description": "Build this website best to aware hospital management for blood dontations",
+    "skills": ["HTML", "CSS", "JAVASCRIPT"],
+   
+    "source": "https://www.github.com"
+  }
+]
